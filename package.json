@@ -1,0 +1,9 @@
+{
+  "name": "odd-api",
+  "version": "1.0.0",
+  "description": "Template for Strapi projects",
+  "main": "index.js",
+  "repository": "https://github.com/Odd-use/odd-api.git",
+  "author": "Odduse <info@odduse.com> (http://odduse.com/)",
+  "license": "MIT"
+}
